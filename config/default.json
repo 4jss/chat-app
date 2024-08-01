@@ -1,0 +1,7 @@
+{
+    "appName": "app",
+    "port": "8080",
+    "hostname": "localhost",
+    "uri": "mongodb+srv://root:14789632@cluster0.d7jpplq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "secret": "50e090e5e4f7b8a6f0ddc1b5fad42d582d260f6372f817885c8e781deb526e928202eed88ba580f7029964102651f5b81a23eac2db687dd968045682a86832d3"
+}
